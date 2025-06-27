@@ -1,0 +1,1 @@
+cmd_/home/duong/Mock_project1/btn_driver.ko := /home/duong/buildroot/output/host/bin/arm-buildroot-linux-gnueabihf-ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/duong/Mock_project1/btn_driver.ko /home/duong/Mock_project1/btn_driver.o /home/duong/Mock_project1/btn_driver.mod.o;  true
